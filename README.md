@@ -1,6 +1,6 @@
 # Songs about you
 
-A mood-based music recommender system built with the Spotify Web API, Python, and Streamlit. It analyzes your top tracks and classifies them by mood — like Happy, Chill, Sad, or Hype* — based on their audio features.
+A mood-based music recommender system built with the Spotify Web API, Python, and Streamlit. It analyzes your top tracks and classifies them by mood like Happy, Chill, Sad, or Hype based on their audio features.
 
 ## Features
 
